@@ -2,7 +2,7 @@
 
 🇮🇹
 
-Progetto finale del corso Basi di Dati, che implementa in linguaggio <a href='https://en.wikipedia.org/wiki/SQL' target='_blank'>SQL</a> (tramite il DBMS <a href='https://www.postgresql.org/' target='_blank'>PostgreSQL</a>) una Base di Dati relazionale per un’azienda che si occupa della produzione e vendita di cialde e capsule di caffè. Progetto realizzato in collaborazione con i colleghi Luigi Fiore, Mario Ferrara e Alessandro Costantino.
+Progetto finale del corso Basi di Dati, che implementa in linguaggio <a href='https://it.wikipedia.org/wiki/Structured_Query_Language' target='_blank'>SQL</a> (tramite il DBMS <a href='https://www.postgresql.org/' target='_blank'>PostgreSQL</a>) una Base di Dati relazionale per un’azienda che si occupa della produzione e vendita di cialde e capsule di caffè. Progetto realizzato in collaborazione con i colleghi Luigi Fiore, Mario Ferrara e Alessandro Costantino.
 
 🇬🇧
 
